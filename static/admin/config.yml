@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: PiotrKulpa/gatsby-netlifycms-starter
+  repo: PiotrKulpa/gatsby-starter-netlify-cms
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
